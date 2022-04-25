@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liviu</h1>
-<h3 align="center">A passionate Solution Architect from Romania</h3>
+<h3 align="center">Passionate Solution Architect with FullStack Web Development experience</h3>
 
 <p align="left"> <a href="https://twitter.com/mijache_ro" target="blank"><img src="https://img.shields.io/twitter/follow/mijache_ro?logo=twitter&style=for-the-badge" alt="mijache_ro" /></a> </p>
 
